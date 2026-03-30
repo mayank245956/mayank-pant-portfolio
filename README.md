@@ -1,16 +1,10 @@
-\# 🌐 Mayank Pant — Portfolio
+🌐 Mayank Pant — Portfolio
 
 
 
 A modern portfolio showcasing projects in \*\*statistics, data science, and optimization systems\*\*.
 
-
-
-\---
-
-
-
-\## 🚀 Live Website
+ Live Website
 
 
 
@@ -21,8 +15,7 @@ A modern portfolio showcasing projects in \*\*statistics, data science, and opti
 \---
 
 
-
-\## 🧠 About This Portfolio
+ About This Portfolio
 
 
 
@@ -30,33 +23,30 @@ This portfolio represents my work in:
 
 
 
-\* 📊 Statistical modeling \& probability
+📊 Statistical modeling \& probability
 
-\* 🏥 Queueing theory (M/M/c systems)
+🏥 Queueing theory (M/M/c systems)
 
-\* ⚙️ Optimization \& decision systems
+⚙️ Optimization \& decision systems
 
-\* 📈 Data visualization \& dashboards
+📈 Data visualization \& dashboards
 
 
 
 \---
+ 🔥 Featured Project
 
 
 
-\## 🔥 Featured Project
+ Hospital Queue \& Waiting Time Optimizer
 
 
 
-\### Hospital Queue \& Waiting Time Optimizer
+ M/M/c queueing model (Erlang C)
 
+ Real-time system performance metrics
 
-
-\* M/M/c queueing model (Erlang C)
-
-\* Real-time system performance metrics
-
-\* Cost optimization (doctor vs waiting cost)
+ Cost optimization (doctor vs waiting cost)
 
 
 
@@ -69,18 +59,16 @@ https://hospital-queue-optimizer-7tfvbvffp7efbby6vw5vkb.streamlit.app/
 \---
 
 
-
-\## 🛠 Tech Stack
-
+. Tech Stack
 
 
-\* HTML, CSS, JavaScript
+HTML, CSS, JavaScript
 
-\* Python
+ Python
 
-\* Streamlit
+ Streamlit
 
-\* NumPy, Pandas, Matplotlib
+ NumPy, Pandas, Matplotlib
 
 
 
@@ -88,15 +76,15 @@ https://hospital-queue-optimizer-7tfvbvffp7efbby6vw5vkb.streamlit.app/
 
 
 
-\## 📫 Connect With Me
+📫 Connect With Me
 
 
 
-\* GitHub: https://github.com/mayank245956
+GitHub: https://github.com/mayank245956
 
-\* LinkedIn: https://www.linkedin.com/in/mayank-pant-291155322
+LinkedIn: https://www.linkedin.com/in/mayank-pant-291155322
 
-\* Email: \[pantmayank153@gmail.com](mailto:pantmayank153@gmail.com)
+Email: \[pantmayank153@gmail.com](mailto:pantmayank153@gmail.com)
 
 
 
@@ -104,7 +92,7 @@ https://hospital-queue-optimizer-7tfvbvffp7efbby6vw5vkb.streamlit.app/
 
 
 
-\## ⚡ Philosophy
+⚡ Philosophy
 
 
 
