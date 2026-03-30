@@ -1,102 +1,68 @@
-🌐 Mayank Pant — Portfolio
+Mayank Pant — Portfolio
+
+A portfolio showcasing projects in statistics, data science, and optimization systems.
 
 
-
-A modern portfolio showcasing projects in \*\*statistics, data science, and optimization systems\*\*.
 
  Live Website
 
-
-
-👉 https://mayank245956.github.io/mayank-portfolio/
-
-
-
-\---
-
-
- About This Portfolio
+https://mayank245956.github.io/mayank-pant-portfolio/
 
 
 
-This portfolio represents my work in:
+## About
+
+I build systems that apply statistical theory to real-world problems, focusing on:
+
+* Queueing theory and optimization
+* Data-driven decision systems
+* Interactive dashboards
+* Simulation modeling
 
 
 
-📊 Statistical modeling \& probability
+ Featured Project
 
-🏥 Queueing theory (M/M/c systems)
+ Hospital Queue & Waiting Time Optimizer
 
-⚙️ Optimization \& decision systems
+* M/M/c queueing model (Erlang C)
+* Real-time system performance metrics
+* Cost optimization (doctor vs waiting cost)
 
-📈 Data visualization \& dashboards
-
-
-
-\---
- 🔥 Featured Project
-
-
-
- Hospital Queue \& Waiting Time Optimizer
-
-
-
- M/M/c queueing model (Erlang C)
-
- Real-time system performance metrics
-
- Cost optimization (doctor vs waiting cost)
-
-
-
-👉 Live App:
-
+Live App:
 https://hospital-queue-optimizer-7tfvbvffp7efbby6vw5vkb.streamlit.app/
 
 
 
-\---
+ Other Projects
 
+ Distribution Guessing Game
 
-. Tech Stack
+* Interactive probability distribution identification tool
+* Built using Python, NumPy, and Matplotlib
+* Focused on visual understanding of statistical patterns
 
-
-HTML, CSS, JavaScript
-
- Python
-
- Streamlit
-
- NumPy, Pandas, Matplotlib
+GitHub:
+https://github.com/mayank245956/distribution-guessing-game
 
 
 
-\---
+ Tech Stack
+
+* HTML / CSS / JavaScript
+* Python
+* Streamlit
+* NumPy, Pandas, Matplotlib
+
+
+ Contact
+
+* GitHub: https://github.com/mayank245956
+* LinkedIn: https://www.linkedin.com/in/mayank-pant-291155322
+* Email: [pantmayank153@gmail.com](mailto:pantmayank153@gmail.com)
 
 
 
-📫 Connect With Me
-
-
-
-GitHub: https://github.com/mayank245956
-
-LinkedIn: https://www.linkedin.com/in/mayank-pant-291155322
-
-Email: \[pantmayank153@gmail.com](mailto:pantmayank153@gmail.com)
-
-
-
-\---
-
-
-
-⚡ Philosophy
-
-
+ Statement
 
 > Turning statistical theory into real-world systems.
-
-
-
